@@ -1,0 +1,4 @@
+---
+0.1.0 colored:~> 1.2|checksum:c085973748e911a3a8a6b719108940d85ff9ec87377b535937a50788b90f63c5,ruby:>= 2.0.0
+0.2.0 colored:~> 1.2|checksum:d0d5688bf9fbd9e07d4f77524306d59ce4d9453dcf586cf01700903bf897e0f1,ruby:>= 2.0.0
+0.3.0 colored2:~> 3.1|checksum:a0a0ac50e262f8514d1abe0a14e95e71c98b24e3378690e5d044daf0013ad4bc,ruby:>= 2.0.0

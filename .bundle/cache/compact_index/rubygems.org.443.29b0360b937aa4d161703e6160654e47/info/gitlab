@@ -1,0 +1,15 @@
+---
+2.0.0 httparty:>= 0|checksum:4e3b63c4da7442d07e88a0bd2d62934e5b2f7ef609130f0282bd9accf49baff6
+2.1.0 httparty:>= 0|checksum:5a5fab7b6c8326bf8101e725fb3f8dafb0de371d385b40e7e4e6a76e8d709f37
+2.2.0 httparty:>= 0|checksum:fe2579dc76fd165e0325c9149cbbc3084c906ffddaf4aa7bebe6b191005117e7
+3.0.0 httparty:>= 0|checksum:37cbb43ef233078f952d78353caa516e216050d342977b8c8298583235db3076
+3.1.0 httparty:>= 0,terminal-table:>= 0|checksum:f4f50cac4ea4489a8cf49d6e67c838617a6746114019df693a5a19ed053d3383
+3.2.0 httparty:>= 0,terminal-table:>= 0|checksum:a50d1686f8a5d0bbc473d802eb12ddf70b9e03136aaeb474c232684f0968b8a1
+3.3.0 httparty:>= 0,terminal-table:>= 0|checksum:55137adcee55a361f0fd0f650b6a1f46a3bad6ca3a90716172359c9789f5ccef
+3.4.0 httparty:>= 0,terminal-table:>= 0|checksum:07738a63fbe3fc2a2d17d2b62060b810347d09947fcae67b3740f1647f393c94
+3.5.0 httparty:>= 0,terminal-table:>= 0|checksum:76e0282ab5ab9ef05fba508e5e95f0af96c42b1d4158a4ff39f2ad63418294a4
+3.6.0 httparty:>= 0,terminal-table:>= 0|checksum:8ffe3120d8b981b5181dea36ef4a013c9dc0af8818e75edd12effdb6f717ea77
+3.6.1 httparty:>= 0,terminal-table:>= 0|checksum:5f3354dfa6e6309ed04b18cfefc9e7126d970966c04def6267fc75b59fea6515
+3.7.0 httparty:~> 0.13.0,terminal-table:>= 0|checksum:018c75a96bfd937b303db8951a69d81b90440c0c67f2c18799df86b8d3e36cd3
+4.0.0 httparty:>= 0,terminal-table:= 1.7.1|checksum:33651f5c2032c6a3affb90ee2e6dcaa61fceb0c70d8d8726dd65853de7f4b5d4,ruby:>= 2.0.0
+4.1.0 httparty:>= 0,terminal-table:>= 0|checksum:9fa1280f742aee25f343a6af8441df067b12fa4512a76ea1432955be0b96b3c3,ruby:>= 2.0.0
