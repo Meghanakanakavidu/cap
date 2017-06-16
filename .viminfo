@@ -55,18 +55,19 @@ $
 	'
 
 # File marks:
-'0  52  0  ~/deploy/Gemfile
-'1  1  0  ~/deploy/Gemfil
-'2  1  0  ~/deploy/Capfile
-'3  51  0  ~/deploy/Gemfile
-'4  63  21  ~/deploy/config/deploy/production.rb
-'5  53  0  ~/deploy/Gemfile
-'6  1  0  ~/deploy/config/deploy.rb
-'7  47  0  ~/deploy/Gemfile
-'8  8  0  ~/.rbenv/versions
-'9  1  0  ~/.rbenv/version
+'0  1  0  ~/deploy_test/config/deploy.rb
+'1  52  0  ~/deploy/Gemfile
+'2  1  0  ~/deploy/Gemfil
+'3  1  0  ~/deploy/Capfile
+'4  51  0  ~/deploy/Gemfile
+'5  63  21  ~/deploy/config/deploy/production.rb
+'6  53  0  ~/deploy/Gemfile
+'7  1  0  ~/deploy/config/deploy.rb
+'8  47  0  ~/deploy/Gemfile
+'9  8  0  ~/.rbenv/versions
 
 # Jumplist (newest first):
+-'  1  0  ~/deploy_test/config/deploy.rb
 -'  52  0  ~/deploy/Gemfile
 -'  1  0  ~/deploy/Gemfile
 -'  1  0  ~/deploy/Gemfil
@@ -98,7 +99,6 @@ $
 -'  21  38  ~/deploy_test/.gitignore
 -'  1  0  ~/deploy_test/.gitignore
 -'  27  117  ~/deploy_test/config/deploy.rb
--'  1  0  ~/deploy_test/config/deploy.rb
 -'  51  2  ~/deploy_test/Gemfile
 -'  1  0  ~/deploy_test/Gemfile
 -'  4  0  ~/deploy/config/deploy.rb
@@ -166,6 +166,22 @@ $
 -'  4  0  /usr/lib/ruby/vendor_ruby/capistrano/templates/capfile
 
 # History of marks within files (newest to oldest):
+
+> ~/deploy_test/config/deploy.rb
+	"	1	0
+	^	27	118
+	.	27	102
+	+	4	19
+	+	6	0
+	+	4	20
+	+	5	0
+	+	4	30
+	+	5	58
+	+	11	41
+	+	24	0
+	+	27	0
+	+	33	23
+	+	27	102
 
 > ~/deploy/Gemfile
 	"	52	0
@@ -387,22 +403,6 @@ $
 	.	21	38
 	+	23	0
 	+	21	38
-
-> ~/deploy_test/config/deploy.rb
-	"	27	117
-	^	27	118
-	.	27	102
-	+	4	19
-	+	6	0
-	+	4	20
-	+	5	0
-	+	4	30
-	+	5	58
-	+	11	41
-	+	24	0
-	+	27	0
-	+	33	23
-	+	27	102
 
 > ~/deploy_test/Gemfile
 	"	51	2
